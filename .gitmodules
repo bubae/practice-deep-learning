@@ -1,0 +1,18 @@
+[submodule "keras/keras"]
+	path = keras/keras
+	url = https://github.com/fchollet/keras
+[submodule "tensorflow/colornet"]
+	path = tensorflow/colornet
+	url = https://github.com/pavelgonchar/colornet
+[submodule "tensorflow/TensorFlow-Tutorials"]
+	path = tensorflow/TensorFlow-Tutorials
+	url = https://github.com/nlintz/TensorFlow-Tutorials
+[submodule "theano/theano-rnn"]
+	path = theano/theano-rnn
+	url = https://github.com/gwtaylor/theano-rnn
+[submodule "theano/trainingRNNs"]
+	path = theano/trainingRNNs
+	url = https://github.com/pascanur/trainingRNNs
+[submodule "theano/theano_exercises"]
+	path = theano/theano_exercises
+	url = https://github.com/goodfeli/theano_exercises
